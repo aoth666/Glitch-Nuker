@@ -1,8 +1,8 @@
 # use
 
-• git clone https://github.com/aoth666/Glitch-Nuker
+• git clone https://github.com/aoth666/Phantom-Nuker
 
-• cd Glitch-Nuker
+• cd Phantom-Nuker
 
 • pkg install python
 
